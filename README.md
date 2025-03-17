@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm just a finance guy venturing into the world of Python—let's see where this journey takes me.
 <!--
 **TaBangna/TaBangna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
